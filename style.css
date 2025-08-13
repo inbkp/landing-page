@@ -75,7 +75,7 @@
     align-items: center;
     background-color: grey;
     flex: 1;
-    max-width: 470px;
+    max-width: 410px;
     min-height: 225px;
     /*flex: 0 1 460px; i dont want to use this because when the screen change to 768px the image going to bottom of the text
     min-height: 241px; */
@@ -85,7 +85,7 @@
 .hero-text
 {
     /*border: 1px solid black;*/
-    max-width: 400px;
+    max-width: 430px;
 }
 
 .hero-text h3
